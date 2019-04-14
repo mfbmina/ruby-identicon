@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chunky_png (1.3.11)
+    coderay (1.1.2)
+    method_source (0.9.2)
+    pry (0.12.2)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  chunky_png
+  pry
+
+BUNDLED WITH
+   1.17.2
